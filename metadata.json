@@ -1,0 +1,6 @@
+{
+  "name": "ملیکا - حباب‌سنج طلا و ارز",
+  "description": "سامانه آنلاین و محاسبه‌گر هوشمند قیمت روز دلار، طلا، سکه، طلا جهانی و حباب بازار ایران",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
